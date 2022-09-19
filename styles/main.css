@@ -1,0 +1,37 @@
+body {
+  background-color: aqua;
+}
+
+#title {
+  
+  background-color: plum;
+  height: 1in;
+  margin-top: 10px;
+}
+
+section {
+
+  border: solid white;
+}
+
+
+img {
+  width: 4in;
+
+
+}
+
+.harvestLocations {
+  flex: 1;
+  justify-content: flex-end;
+  flex-direction: column;
+  background-color: sandybrown;
+  border: solid white;
+  
+}
+
+
+.main-container {
+
+    display: flex
+}
